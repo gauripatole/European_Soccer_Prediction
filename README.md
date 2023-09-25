@@ -8,11 +8,9 @@ The aim is to use and compare prediction methods to predict the match outcomes a
 </head>
 <body>
     <h1>Predicting Soccer Match Outcomes Using FIFA Statistics and Engineered Features</h1>
-
-    <h2>Introduction:</h2>
+     <h2>Introduction:</h2>
     <p>Utilized FIFA statistics and engineered features to develop a predictive model for soccer match outcomes.</p>
     <p>Evaluated multiple machine learning algorithms to determine the best-performing model.</p>
-
     <h2>Model Performance:</h2>
     <ol>
         <li>
@@ -36,15 +34,12 @@ The aim is to use and compare prediction methods to predict the match outcomes a
             </ul>
         </li>
     </ol>
-
     <h2>Challenges with Linear Regression:</h2>
     <p>Linear Regression was found to be ineffective for our dataset.</p>
     <p>Limited variability in the dependent variable made it unsuitable for predicting soccer match outcomes accurately.</p>
-
     <h2>Model Comparison:</h2>
     <p>Compared the accuracy of our predictive models to bookies' predictions.</p>
     <p>Our model outperformed bookies' predictions by 47.76 basis points, indicating its superior predictive power.</p>
-
     <h2>Conclusion:</h2>
     <p>Our approach, which combines FIFA statistics and engineered features, provides a robust framework for predicting soccer match outcomes.</p>
     <p>Logistic Regression emerged as the top-performing model for this task.</p>
