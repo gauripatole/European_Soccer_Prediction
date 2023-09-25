@@ -4,7 +4,7 @@ The aim is to use and compare prediction methods to predict the match outcomes a
 
 <html>
 <head>
-    <title>Predicting Soccer Match Outcomes</title>
+    <title> Predicting Soccer Match Outcomes </title>
 </head>
 <body>
     <h1>Predicting Soccer Match Outcomes Using FIFA Statistics and Engineered Features</h1>
